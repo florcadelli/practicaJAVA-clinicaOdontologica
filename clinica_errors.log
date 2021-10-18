@@ -1,0 +1,28 @@
+[2021-09-2810:01:47] [ ERROR] [GlobalExceptionHandler:19] not-null property references a null or transient value : com.example.laclinica.model.Turno.odontologo; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.example.laclinica.model.Turno.odontologo
+[2021-09-2811:36:05] [ ERROR] [GlobalExceptionHandler:19] Request method 'POST' not supported
+[2021-09-2811:37:06] [ ERROR] [GlobalExceptionHandler:19] Request method 'GET' not supported
+[2021-09-2811:37:31] [ ERROR] [GlobalExceptionHandler:19] Request method 'POST' not supported
+[2021-09-2811:37:37] [ ERROR] [GlobalExceptionHandler:19] Request method 'POST' not supported
+[2021-09-2821:47:09] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2821:47:20] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2821:47:35] [ ERROR] [GlobalExceptionHandler:19] Request method 'POST' not supported
+[2021-09-2821:48:16] [ ERROR] [GlobalExceptionHandler:19] Request method 'POST' not supported
+[2021-09-2821:51:54] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2821:52:02] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2821:53:15] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2821:53:28] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2822:01:44] [ ERROR] [GlobalExceptionHandler:19] Request method 'POST' not supported
+[2021-09-2822:25:52] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2912:47:36] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2913:06:05] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2913:08:36] [ ERROR] [GlobalExceptionHandler:19] Request method 'GET' not supported
+[2021-09-2913:37:07] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2913:37:18] [ ERROR] [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list"
+[2021-09-2913:57:59] [ ERROR] [GlobalExceptionHandler:19] Request method 'PUT' not supported
+[2021-09-2913:58:20] [ ERROR] [GlobalExceptionHandler:19] Request method 'PUT' not supported
+[2021-09-2914:01:19] [ ERROR] [GlobalExceptionHandler:19] Request method 'PUT' not supported
+[2021-09-2914:02:09] [ ERROR] [GlobalExceptionHandler:19] Request method 'PUT' not supported
+[2021-09-3014:40:24] [ ERROR] [GlobalExceptionHandler:19] could not execute statement; SQL [n/a]; constraint [FKQTJ6T7MULC2JMFKV92X4CTKWH]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[2021-09-3014:41:16] [ ERROR] [GlobalExceptionHandler:19] could not execute statement; SQL [n/a]; constraint [FKQTJ6T7MULC2JMFKV92X4CTKWH]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[2021-09-3014:43:22] [ ERROR] [GlobalExceptionHandler:19] could not execute statement; SQL [n/a]; constraint [FKQTJ6T7MULC2JMFKV92X4CTKWH]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[2021-10-0111:55:15] [ ERROR] [GlobalExceptionHandler:19] Request method 'POST' not supported
